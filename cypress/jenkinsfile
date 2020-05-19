@@ -1,0 +1,22 @@
+pipeline {
+  agent {
+    // this image provides everything needed to run Cypress
+    docker {
+      image 'cypress/base'
+    }
+  }
+
+  stages {
+    stage('Instalando dependências') {
+        steps {
+            sh 'npm install'
+        }
+    }
+
+    stage('Teste E2E') {
+        steps {
+            sh 'npm test'
+        }
+    }
+  }
+}
