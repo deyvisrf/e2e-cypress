@@ -1,0 +1,20 @@
+{
+  "name": "e2e-cypress",
+  "version": "1.0.0",
+  "description": "Testes automatizados e2e usando Cypress. Zup Innovation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "e2e",
+    "automação",
+    "cypress",
+    "zup"
+  ],
+  "author": "Deyvis Ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  }
+}
