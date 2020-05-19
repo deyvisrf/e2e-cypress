@@ -27,4 +27,4 @@ Os testes serão executados no Google Chrome
 
 ## Autor
 
-* **BDeyvis Ferreira** - *GitHub* - [deyvisrf](https://github.com/deyvisrf)
+* **Deyvis Ferreira** - *GitHub* - [deyvisrf](https://github.com/deyvisrf)
