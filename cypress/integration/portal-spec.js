@@ -23,7 +23,7 @@ describe("Testes em um grande portal de comércio online", () => {
       portalpage.textoEstaVisivel('Subtotal do carrinho (1 item):')
     })
 
-    it("Marcar um produco como 'Presente' e adiciona-lo ao carrinho de compras", () => {
+    it("Marcar um produto como 'Presente' e adiciona-lo ao carrinho de compras", () => {
       portalpage.marcarCheckbox()
       portalpage.addProdutoAoCarrinho()
       portalpage.validarCheckboxMarcados(checkbox)
