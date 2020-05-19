@@ -2,7 +2,7 @@
 
 Testes automatizados com a ferramenta Cypress.
 
-## Dependencias
+## Dependências
 Acesse a raiz do projeto e execute o comando no terminal
 ```
 npm install
