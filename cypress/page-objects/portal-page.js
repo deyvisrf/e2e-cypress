@@ -1,7 +1,7 @@
 export class PortalPage {
 
     url() {
-        cy.visit('https://www.amazon.com.br/')
+        cy.visit('/')
     }
 
     pesquisarProduto(textoPesquisa) {
