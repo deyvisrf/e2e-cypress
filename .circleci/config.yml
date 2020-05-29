@@ -9,12 +9,12 @@ workflows:
     jobs:
       - build
       - test
-# jobs:
-#   build:
-#     executor: node
-#     steps:
-#       - checkout
-#       - run: npm install
+jobs:
+  build:
+    executor: node
+    steps:
+      - checkout
+      - run: npm install
   test:
     executor: node
     steps:
