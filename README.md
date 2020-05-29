@@ -1,5 +1,5 @@
 
-[![CircleCI](https://circleci.com/gh/circleci/e2e-cypress.svg?style=shield)](https://app.circleci.com/gh/circleci/e2e-cypress)
+[![CircleCI](https://app.circleci.com/pipelines/github/deyvisrf/e2e-cypress.svg?style=svg)](https://app.circleci.com/pipelines/github/deyvisrf/e2e-cypress)
 
 
 
