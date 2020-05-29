@@ -7,16 +7,16 @@ workflows:
   version: 2
   build_and_test:
     jobs:
-      - build
       - test
 jobs:
-  build:
-    executor: node
-    steps:
-      - checkout
-      - run: npm install
+#   build:
+#     executor: node
+#     steps:
+#       - checkout
+#       - run: npm install
   test:
     executor: node
     steps:
       - checkout
+      - run: npm install
       - run: npm run test
