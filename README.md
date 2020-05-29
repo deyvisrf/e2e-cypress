@@ -1,5 +1,8 @@
  Example for specific branch:
-[![CircleCI](https://app.circleci.com/pipeline/github/deyvisrf/e2e-cypress.svg?style=svg)](https://app.circleci.com/pipeline/github/deyvisrf/e2e-cypress)
+[![CircleCI](https://app.circleci.com/gh/circleci/e2e-cypress.svg?style=shield)](https://app.circleci.com/gh/circleci/e2e-cypress)
+
+[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+
 
 
 # end-to-end com Cypress
