@@ -1,7 +1,6 @@
- Example for specific branch:
-[![CircleCI](https://app.circleci.com/gh/circleci/e2e-cypress.svg?style=shield)](https://app.circleci.com/gh/circleci/e2e-cypress)
 
-[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/circleci/e2e-cypress.svg?style=shield)](https://app.circleci.com/gh/circleci/e2e-cypress)
+
 
 
 
