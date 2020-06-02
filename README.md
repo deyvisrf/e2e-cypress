@@ -1,7 +1,4 @@
-
-[![CircleCI](https://app.circleci.com/pipelines/github/deyvisrf/e2e-cypress.svg?style=svg)](https://app.circleci.com/pipelines/github/deyvisrf/e2e-cypress)
-
-[![CircleCI](https://circleci.com/gh/deyvisrf/e2e-cypress.svg?style=svg&circle-token=11ab552caae9b23a11095897a8241c3524b06192)](https://circleci.com/gh/deyvisrf/e2e-cypress.svg?style=svg&circle-token=11ab552caae9b23a11095897a8241c3524b06192)
+[![CircleCI](https://circleci.com/gh/deyvisrf/e2e-cypress.svg?style=shield&circle-token=11ab552caae9b23a11095897a8241c3524b06192)](https://circleci.com/gh/deyvisrf/e2e-cypress.svg?style=shield&circle-token=11ab552caae9b23a11095897a8241c3524b06192)
 
 
 
